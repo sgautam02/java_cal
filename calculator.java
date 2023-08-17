@@ -56,7 +56,8 @@ class Calculator
         }
             
         System.out.print("--------------------------------------0\n");
-        //sc.close();
+        //2
+        sc.close();
         }
     
 	}
